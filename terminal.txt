@@ -1,0 +1,13 @@
+windows için;
+cmd yazarak terminali açıyoruz dir yazarak entere basıyoruz bize o konumdaki dosyaları listeliyecek,
+diyelim ki kendi oluşturduğumuz visual code çalışma sayfamıza gideceğiz bu sayfamız masaüstünde olduğunu varsayalım,
+dir dedikten sonra karşımıza Desktop yazısı çıkacak bunu seçmek için
+cd Desktop yazmamız yeterli
+tekrardan dir yazıp enterlediğimizde masaüstünde hangi dosyalar varsa onu listeler benim çalışma sayfamın ismi javascript_d 
+cd javascript_d yazdığımızda o klasöre ulaşmış oluyoruz
+C:\Users\Hp\Desktop\javascript_d>
+C:\Users\Hp\Desktop\javascript_d>code . yazarsak . nın anlamı açmak anlamını taşıyor visual code ile aç
+C:\Users\Hp\Desktop\javascript_d>cd .. yazarsak .. nın anlamı bir geri gel demek yani konum şu şekilde olur
+C:\Users\Hp\Desktop>
+echo %cd% komutu ile bulunduğumuz klasörü ekrana yazdırabiliriz.
+mkdir <klasorismi> yeni klasör oluşturmak istersek bu komutu kullanırız.
