@@ -1,0 +1,27 @@
+Kendinizi Güncel Tutmak İçin Kullanabileceğiniz Platformlar
+
+Stack Overflow, programlama ve kodlama ile ilgili spesifik sorularınızı sorabileceğiniz veya başkalarının sorduğu sorulara cevap verebileceğiniz bir platform.
+https://stackoverflow.com/
+
+HackerRank, Bu sitenin genel kuruluş amacı aslında yazılımcı çalıştırmak isteyen firmalara yazılımcı istihdamı sağlamak. Firmalar bu site içerisinde yazılımcıların mülakatlarını yapıp bilgi seviyelerini ölçebiliyor ve profillerini inceleyip onlara iş teklifi sunabiliyor. Türkiye’de henüz bu amaçla kullanılmasa da mülakatlarda göreceğiniz test caselerde bu platformdan sorulara denk gelebilirsiniz.
+https://www.hackerrank.com/
+
+Codility, de HackerRank’e benzer şekilde şirketlerin programcı işe alım süreçlerini hızlandırmaya yönelik kurulmuş bir site. Bu servisi kullanan şirketler, programcı işe almak istedikleri zaman platform üzerinde bir challenge oluşturup, adaylara ilgili linki yolluyorlar. Adaylar da ilgili platforma girip, verilen süre zarfında ilgili soruları çözüyor.
+https://www.codility.com/
+
+Project Euler, sitesi oldukça zorlu matematik problemlerinden oluşuyor. Zihninize farklı düşünmeyi öğretmek ve problem çözme yeteneğinizi geliştirmek istiyorsanız Project Euler iyi bir seçenek olacaktır.
+https://projecteuler.net/
+
+GitHub, proje yönetim ve versiyon kontrol sistemi olmakla birlikte, ayrıca geliştiriciler için yapılmış bir sosyal ağ platformu. Tüm dünyadan başka insanlarla işbirliği içinde çalışmanıza, projelerinizi planlamanıza ve izlemenize olanak sağlıyor.
+https://github.com/
+
+Kodlama yeteneğinizi geliştirmek için aşağıdaki siteleri de tavsiye ediyoruz;
+
+CodeWars,    https://www.codewars.com/
+LeetCode,    https://leetcode.com/
+edabit,      https://edabit.com/
+repl.it,     https://repl.it/
+CodePen,     https://codepen.io/
+Exercism.io  https://exercism.io/
+
+
