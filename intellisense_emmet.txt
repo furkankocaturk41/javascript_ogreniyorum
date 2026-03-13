@@ -1,0 +1,12 @@
+IntelliSense ve Emmet Özelliklerine Genel Bakış
+
+IntelliSense, yazdığınız kodu kolaylıkla tamamlayabilmenizi ve eğer bir fonksiyon kullanıyorsanız o fonksiyonun özelliklerini anlayabilmenizi sağlıyor.
+Emmet, içerisinde bulundurduğu kısaltmalarla birlikte, kod yazarken zaman kazanmamızı sağlıyor.
+Birkaç örnek olarak bu siteden veya yazı olarak belirtmek gerekirse;
+
+http://www.borakasmer.com/emmet-nedir/
+
+* ! + Tab >>>> Html bir sayfa için gerekli iskelet, aşağıdaki tuş kombinasyonu ile oluşturur.
+* div#emmetdiv
+* div.table.tbl_funcy >>> İlgili element’e “#” ile id tanımlaması, “.” ile css tanımlaması yapılır. Örnek kullanımları aşağıdaki gibidir.
+* div+div>p>ul>li >>> “+” ile aynı seviyede 2 html element birleştirirken, alt kırılıma “>” işareti ile inilmektedir. 
