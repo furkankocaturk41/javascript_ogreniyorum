@@ -1,0 +1,19 @@
+Visual Studio Code içerisinde yeni kodlar yazarken daha önceden yazdığımız ifadeleri tekrar tekrar yazıyor olabiliriz. 
+İşte tam da bu kısımda "Snippets" yardımımıza koşuyor diyebiliriz. 
+Buna bir kısayol veririrz mesela k1 istediğimiz kodu ayarlarız ve kullandığımız html den bunu k1 diye çağırırız ve kodumuz uğraştırmadan bizi gelir
+
+Yeni bir snippets eklemek için ilk öncelikle CTRL + SHIFT + P kısa yolunu kullanmalı ve yukarıda açılan menüden "snippets" ifadesini aratmalıyız. 
+Karşımıza çıkan sonuçlardan Preferences: Configure User Snippets ifadesine tıklayarak
+giriş yapmalıyız. Sonrasında menüde çıkan yazılım dillerinden çalışmak istediğimiz yazılım dilini seçmeliyiz
+biz html kullancağımız için html seçerek enterliyoruz snippet yazarak tab tuşuna basıyoruz bizim için hazır snippeti getiriyor
+
+{
+	"H1 - Kodluyoruz": {
+		"prefix": "k1",
+		"body": "<h1>kodluyoruz</h1>",
+		"description": "h1 içine kodluyoruz yazdır"
+	}
+Bu şekilde ayarlamamızı yapıyoruz prefix:k1 anasayfada çağırcağımız klavye yazısı 
+Body ise k1 yazınca gelecek olan yazı kodlar buraya yazılır
+index.html de k1 yazarak çağırdığımmızda çıktımız şöyle oluyor
+<h1>kodluyoruz</h1>
