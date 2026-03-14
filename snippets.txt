@@ -17,3 +17,4 @@ Bu şekilde ayarlamamızı yapıyoruz prefix:k1 anasayfada çağırcağımız kl
 Body ise k1 yazınca gelecek olan yazı kodlar buraya yazılır
 index.html de k1 yazarak çağırdığımmızda çıktımız şöyle oluyor
 <h1>kodluyoruz</h1>
+Detaylı bilgi için : https://code.visualstudio.com/docs/editor/userdefinedsnippets
