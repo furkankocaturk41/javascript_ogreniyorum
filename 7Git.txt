@@ -1,0 +1,13 @@
+GIT Versiyon Kontrol Sistemi Nedir?
+Versiyon Kontrol Sistemi veya Kaynak Kod Yönetim Sistemi 
+Proje için tüm dökümanları izler,projenin snapShot özelliği ile o anki halini alabiliriz(Commit)
+En çok kullanılan komutlar;
+git init
+git add
+git commit
+git status
+git push
+git pull
+git clone
+git checkout
+git rm
