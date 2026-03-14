@@ -1,0 +1,3 @@
+MultiCursor yani çoklu imleç özelliğidir. Bu özellik bizlere birden fazla yeri aynı anda değiştirme imkanı sunmaktadır.
+Alt tuşu + Ctrl ile seçebiliriz mouse ile veya klavyenin alt ok işaretiyle seçebiliriz 
+Çoklu imleç özelliği de aynı ifadeleri CTRL + D ye her basışta alta doğru inecek ve çoklu seçebilmenizi ve tek seferde değiştirebilmenizi sağlar.
