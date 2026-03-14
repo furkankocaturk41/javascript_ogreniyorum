@@ -5,3 +5,8 @@ https://atom.io/
 3-IntelliJ IDEA, kod editörleridir. İçerisinde çok çeşitli editörler yer almaktadır. Diğer kod editörlerine göre kötü yanlarından biri
 RAM'i çok fazla kullanıyor olmasıdır.
 https://www.jetbrains.com/
+
+Yazılımcı olarak girebileceğin bir teknik mülakat simülasyonunu izlemek istersen: 
+https://www.youtube.com/watch?v=90S4pk-3Lro&list=PL1TEcULbcSLFMB1NjaPF9_EoA8lLBvi6U
+Yazılımcı olarak girebileceğin bir HR mülakat simülasyonunu izlemek istersen:
+https://www.youtube.com/watch?v=gzh-scQJtYk&list=PL1TEcULbcSLFMB1NjaPF9_EoA8lLBvi6U&index=3
