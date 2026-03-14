@@ -1,0 +1,7 @@
+1-Sublime Text,kod editörüyle birlikte Visual Studio Code içerisindeki çoklu imleç gibi birçok özelliği kullanabilirsiniz.
+https://www.sublimetext.com/
+2-Atom, GitHub'ın geliştirdiği bir kod editörüdür.
+https://atom.io/
+3-IntelliJ IDEA, kod editörleridir. İçerisinde çok çeşitli editörler yer almaktadır. Diğer kod editörlerine göre kötü yanlarından biri
+RAM'i çok fazla kullanıyor olmasıdır.
+https://www.jetbrains.com/
