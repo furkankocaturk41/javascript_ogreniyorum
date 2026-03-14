@@ -1,0 +1,24 @@
+MultiCursor yani çoklu imleç özelliğidir. Bu özellik bizlere birden fazla yeri aynı anda değiştirme imkanı sunmaktadır.
+Alt tuşu + Ctrl ile seçebiliriz mouse ile veya klavyenin alt ok işaretiyle seçebiliriz 
+Çoklu imleç özelliği de aynı ifadeleri CTRL + D ye her basışta alta doğru inecek ve çoklu seçebilmenizi ve tek seferde değiştirebilmenizi sağlar.
+
+https://code.visualstudio.com/docs/getstarted/keybindings
+bu siteden klavye kısayollarına ulaşabiliriz
+ctrl+shift+aşağı ok ile veya sağ ok ile seçim işlemleri yapabiliriz
+alt+aşağı ok ile taşıma işlemi yapabiliriz
+alt+shift+aşağı ok ile kopyalama işlemi yapabiliriz
+
+CTRL + P kombinasyonunu kullandığınızda açılan menüden projenizdeki dosyaları açabilirsiniz.
+Halihazırda açık olan dosyayı kapatmak için CTRL + W kombinasyonunu kullanabilirsiniz.
+CTRL + B klavye kısayolunu kullanarak kod editörünüz sol tarafında açık olan menü çubuğunu kapatıp açabilirsiniz.
+CTRL + Alt + B klavye kısayolunu kullanarak kod editörünüz sağ tarafında açık olan menü çubuğunu kapatıp açabilirsiniz.
+CTRL + SHIFT + P klavye kısayolunu kullanarak ayarlara ulaşabilirsiniz.
+Bir ifadenin tamamını seçmek istediğinizde o ifadenin sonuna gelerek CTRL + SHIFT + SOL YÖN TUŞU kombinasyonunu kullanabilirsiniz.
+Bir ifadenin yerini değiştirmek istediğinizde ALT + YUKARI/AŞAĞI YÖN TUŞU kombinasyonunu kullanabilirsiniz
+Seçili olan ifadeyi bir alt satıra da kopyalamak istediğinizde ALT + SHIFT kısayolunu kullanabilirsiniz.
+Satırın neresinde olursanız olun bir alt satıra geçmek istediğinizde CTRL + ENTER kısayolunu kullanabilirsiniz.
+Dosyanızda yer alan aynı ifadeleri seçmek için CTRL + D kısayolunu kullanabilir sonrasında da çoklu imleç özelliğinden yararlanarak aynı ifadeleri tek seferde değiştirebilirsiniz.
+Satırdaki ifadeleri teker teker atlayarak ilerlemek istediğinizde CTRL + SOL/SAĞ YÖN TUŞU kısayolunu kullanabilirsiniz.
+Seçili olan ifadeyi kopyalamak için CTRL + C kısayolunu kullanabilirsiniz.
+Halihazırda kopyalanan ifadeyi yapıştırmak için CTRL + V kısayolunu kullanabilirsiniz.
+Seçili olan ifadeyi kesmek için CTRL + X kısayolunu kullanabilirsiniz.
