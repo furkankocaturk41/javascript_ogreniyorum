@@ -1,0 +1,21 @@
+.gitignore dosyası projemizin kök dizinine oluşturulan düz bir metin dosyasıdır. Adından anlaşıldığı gibi diyor ki beni göz ardı et. 
+Daha doğrusu göz ardı etmek istediğin, local çalışma alanındaki takip edilmesini istemediğin, takım arkadaşların için gerekmeyen dosyaların varsa veya bu
+dosyaların boyutu reponuza atmanıza gerek olmayacak kadar büyük ölçekli ise buyur beni kullan diyor.
+Peki nedir bu tür dosyalar ?
+  Paket yöneticisinden indirilen bağımlılıklar,
+  image ve video dosyalarınız(dosya boyutları çok fazla olabilir)
+  IDE eklentileri( örneğin .vscode)
+  Sadece kendi çalışma alanınızda olması gereken başkaları tarafından görülmemesi gereken dosyalarınız (veritabanınıza ilişkin konfigürasyonlar)
+  API anahtarları, kimlik bilgileri veya hassas bilgiler içeren dosyalar(.env)
+  Çalışma dizinizdeki geçici dosyalar
+  Log dosyaları
+  Yararsız sistem dosyaları (örneğin MacOS işletim sisteminin .DS_Store dosyası )
+  dist gibi oluşturulan dosyalar
+  Veya herhangi bir dosyanız da olabilir.
+
+  node-modules/ dist/ logs/   dizinleri belirtmek için / kullanılır logs klasörünü alma dedik
+  *.log files/   .log uzantılı herşeyi ve files klasörü içersindeki herşeyi izlemeyi bırakır
+  !files/example.txt   Eğer ki bir klasörümüzü içerisindeki bir dosya haricinde izlenmesini istemiyorsak `!` işareti ile bunu sağlayabiliriz.  Bu örnekte 
+  `files` klasörü içerisindeki `example.txt` haricindeki dosyalar izlenmeyecektir. Files klasörü içerisindeki sadece **example.txt** git akışında görülecektir.
+  
+
