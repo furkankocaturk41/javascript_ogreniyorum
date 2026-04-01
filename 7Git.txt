@@ -1,3 +1,11 @@
+git init
+git add . veya git add index.html
+git commit -m ilkcommit
+git branch -M main ((yeni main adlı branch 
+git remote add origin 'repo-link' ((projemizle eşleştiriyoruz
+git push -u origin main ((ana maindeki projeyi buluta gönderiyoruz
+
+
 GIT Versiyon Kontrol Sistemi Nedir?
 Versiyon Kontrol Sistemi veya Kaynak Kod Yönetim Sistemi 
 Proje için tüm dökümanları izler,projenin snapShot özelliği ile o anki halini alabiliriz(Commit)
