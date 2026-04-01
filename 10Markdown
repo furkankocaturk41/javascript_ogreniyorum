@@ -1,0 +1,23 @@
+https://commonmark.org/help/
+
+bu siteden kısayollarını öğrenebiliriz
+
+*Italic*  yazıyı italic yapmak için
+**Bold**  yazıyı kalın yapmak için
+# Heading 1   büyük başlık 
+## Heading 2  büyükten bir küçük başlık
+[Link](http://a.com)  link vermek için
+![Image](http://url/a.png)  resim linki vermek için
+> Blockquote  alıntı metin yapmak için
+* List
+* List
+          * veya - ile liste oluşturmak için
+- List
+- List
+--- veya *** ile düz çizgi çekmek için
+'''javascript
+3 adet kesme işareti arasındakileri kod sayması için
+'''
+| Ürünlerin Numaraları| Ürün Açıklaması| Ürünlerin Fiyatı| tablo oluşturmak için
+
+
