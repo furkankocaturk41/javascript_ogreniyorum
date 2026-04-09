@@ -3,6 +3,8 @@ git add . veya git add index.html
 git commit -m ilkcommit
 git branch -M main ((yeni main adlı branch 
 git remote add origin 'repo-link' ((projemizle eşleştiriyoruz
+bazen projeyi açtığında eşleşme olmuyor hata veriyor bunu yazabiliriz
+git pull origin main --rebase
 git push -u origin main ((ana maindeki projeyi buluta gönderiyoruz
 
 
