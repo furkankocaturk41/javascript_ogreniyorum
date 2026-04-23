@@ -1,0 +1,35 @@
+Renk Standartları, Tipografi, Margin ve Padding Kullanımı
+Bootstrap Renk Standartları
+  <p class="text-primary">.text-primary</p>
+  <p class="text-secondary">.text-secondary</p>
+  <p class="text-success">.text-success</p>
+  <p class="text-danger">.text-danger</p>
+Inline HTML
+  <p class="text-decoration-underline">Altı çizili</p>
+Listeler
+  list-unstyle classı , varsayılan olarak gelen liste stillendirmesini ve margin-left özeliğini kaldırır.
+  list-inline ve list-inline-item classlarının birlikte kullanımı ile, liste stillendirilmesi kaldırılır ve
+  <li> taglerinin tek bir satırda, aralarında margin verilmiş şekilde görüntülenmesini sağlar.
+   <ul class="list-unstyled">
+                                Margin ve Padding Kullanımı
+    m-: ile başlayan class'lar margini temsil eder.
+    p- ile başlayan class'lar paddingi temsil eder.
+  Yönler
+    t: margin-top ve/ya padding-top için,
+    b: margin-bottom ve/ya padding-bottom için,
+    s: soldan sağa, margin-left ve/ya padding-left, sağdan sola margin-right ve/ya padding-right için,
+    e: soldan sağa, margin-right ve/ya padding-right, sağdan sola margin-left ve/ya padding-left için,
+    x: margin ve paddingi x-ekseni doğrultusunda vermek için,
+    y: margin ve paddingi y-ekseni doğrultusunda vermek için,
+    Bu harfleri kullanmayı "m" ve/ya "p" yi yalnız kullandığımızda her 4 taraf için de aynı değeri veririz.
+  Boşluk büyüklüğü
+  0:margin ve/ya padding sıfırlar.
+  1: varsayılan olarak, margin ve/ya padding değerinde 0.25 çarpanını kullanır.
+  2: varsayılan olarak, margin ve/ya padding değerinde 0.5 çarpanını kullanır.
+  3: varsayılan olarak, margin ve/ya padding değerinde 1 çarpanını kullanır.
+  4: varsayılan olarak, margin ve/ya padding değerinde 1.5 çarpanını kullanır.
+  5: varsayılan olarak, margin ve/ya padding değerinde 3 çarpanını kullanır.
+  auto: margin ve/ya padding değerine auto ataması yapar
+  <div class="mt-4">
+Yatayda Ortalama
+  div class="mx-auto" style="width: 200px;">
